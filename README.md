@@ -1,2 +1,2 @@
 # COIT11134
-Kenshin Angcaya / Repository
+Kenshin / Repository
